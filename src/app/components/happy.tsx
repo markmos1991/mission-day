@@ -44,7 +44,7 @@ const Happy = () => {
                                 </span>39-41 Edge St, Manchester M4 1HW
                             </p>
                             <a href="https://www.aplacecalledcommon.co.uk/" target="_blank" rel="noopener noreferrer">
-                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-blue-400 border-0 rounded focus:outline-none hover:bg-gray-500">Website
+                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-red-600 border-0 rounded focus:outline-none hover:bg-gray-500">Website
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
@@ -80,7 +80,7 @@ const Happy = () => {
                                 </span>15 Hilton St, Manchester M1 1JJ
                             </p>
                             <a href="https://arlosmcr.com/" target="_blank" rel="noopener noreferrer">
-                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-blue-400 border-0 rounded focus:outline-none hover:bg-gray-500">Website
+                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-red-600 border-0 rounded focus:outline-none hover:bg-gray-500">Website
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
@@ -123,7 +123,7 @@ const Happy = () => {
                                 </span>1 Short Street, M4 1AA
                             </p>
                             <a href="https://crazypedros.co.uk/crazy-pedros-pizza-parlour-nq/" target="_blank" rel="noopener noreferrer">
-                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-blue-400 border-0 rounded focus:outline-none hover:bg-gray-500">Website
+                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-red-600 border-0 rounded focus:outline-none hover:bg-gray-500">Website
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
@@ -159,7 +159,7 @@ const Happy = () => {
                                 </span>105a Oldham St, M4 1LW
                             </p>
                             <a href="https://www.chakalakabar.com/" target="_blank" rel="noopener noreferrer">
-                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-blue-400 border-0 rounded focus:outline-none hover:bg-gray-500">Website
+                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-red-600 border-0 rounded focus:outline-none hover:bg-gray-500">Website
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
@@ -202,7 +202,7 @@ const Happy = () => {
                                 </span>64 Oldham St, M4 1LE
                             </p>
                             <a href="https://www.bunnyjacksons.co.uk/" target="_blank" rel="noopener noreferrer">
-                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-blue-400 border-0 rounded focus:outline-none hover:bg-gray-500">Website
+                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-red-600 border-0 rounded focus:outline-none hover:bg-gray-500">Website
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
@@ -245,7 +245,7 @@ const Happy = () => {
                                 </span>30-32 Thomas St, M4 1ER
                             </p>
                             <a href="https://www.watd.co.uk/" target="_blank" rel="noopener noreferrer">
-                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-blue-400 border-0 rounded focus:outline-none hover:bg-gray-500">Website
+                            <button className="flex items-center w-full px-4 py-2 mt-auto text-white bg-red-600 border-0 rounded focus:outline-none hover:bg-gray-500">Website
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>

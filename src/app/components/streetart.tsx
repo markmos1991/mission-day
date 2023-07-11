@@ -3,13 +3,11 @@ import Image from 'next/image'
 
 const Streetart = () => {
   return (
-
-    <section id="street-art-section" className="text-gray-600 body-font">
+<div className="pt-4 " id="street-art-section">
+    <section  className="text-gray-600 body-font">
       <div className="flex flex-col items-center justify-center px-4 mx-auto mt-10 text-2xl font-medium text-center text-gray-900 sm:text-3xl title-font">
-        <h1 className="mb-4 text-3xl font-medium text-gray-900 title-font sm:text-4xl">Art Hunt</h1>
-        <p className="text-sm leading-relaxed ">There is a selection of curated pieces of street art below - you should try to get a picture of each of these during the day. For more information on the art in an around the NQ click below.</p>
-      
-
+        <h1 className="mb-4 text-5xl font-medium text-gray-900 title-font sm:text-4xl">Street Art</h1>
+     
       </div>
       <div className="container px-5 py-10 mx-auto">
         <div className="flex flex-wrap -m-4">
@@ -150,11 +148,12 @@ const Streetart = () => {
         </div>
         <div className='items-center pt-6 text-center'>
         <p className="mb-8 text-sm leading-relaxed ">There is a selection of curated pieces of street art below - you should try to get a picture of each of these during the day. For more information on the art in an around the NQ click below.</p>
-        <a href="https://streetartnq.com/" target="_blank" rel="noopener noreferrer" className='text-blue-400 underline'> <button className="inline-flex px-6 py-2 text-lg text-white bg-blue-400 border-0 rounded focus:outline-none hover:bg-gray-500">Learn More</button></a>
+        <a href="https://streetartnq.com/" target="_blank" rel="noopener noreferrer" className='text-red-600 underline'> <button className="inline-flex px-6 py-2 text-lg text-white bg-red-600 border-0 rounded focus:outline-none hover:bg-gray-500">Learn More</button></a>
         </div>
 
       </div>
     </section>
+    </div>
   )
 }
 
