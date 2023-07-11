@@ -15,7 +15,7 @@ const Upload = () => {
                     <form
                         method="POST"
                         action="https://public.herotofu.com/v1/6bdf4dc0-1ff1-11ee-b0a7-9f000c4c1540"
-                        enctype="multipart/form-data"
+                        encType="multipart/form-data"
                     >
 
                         <label className="items-center block mb-6 text-center">
