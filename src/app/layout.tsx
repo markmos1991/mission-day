@@ -1,12 +1,15 @@
 import '../styles/global.css';
-import { Inter } from 'next/font/google';
+import { Roboto } from 'next/font/google';
 
 import Header from './components/headerSection';
 import Footer from './components/footer';
 
 import { loadComponents } from 'next/dist/server/load-components'
 
-const inter = Inter({ subsets: ['latin'] })
+const roboto = Roboto({
+  weight: '400',
+  subsets: ['latin'],
+})
 
 export const metadata = {
   title: 'Mission Day',
@@ -20,7 +23,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={roboto.className}>
         <Header />
         {children}
         <Footer />

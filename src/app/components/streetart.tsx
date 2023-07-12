@@ -26,7 +26,7 @@ const Streetart = () => {
               <div className="p-6">
                 <h2 className="mb-1 text-xs font-medium tracking-widest text-gray-400 title-font">Tankpetrol</h2>
                 <h1 className="mb-3 text-lg font-medium text-gray-900 title-font">Anthony Burgess Mural</h1>
-                <p className="mb-3 leading-relaxed">Tankpetrol's large mural of A Clockwork Orange author Anthony Burgess can be found in the private parking area off Oak Street.</p>
+                <p className="mb-3 leading-relaxed">Tankpetrol's large mural of A Clockwork Orange author Anthony Burgess can be found in the private parking area off <strong>Oak Street</strong>.</p>
               </div>
             </div>
           </div>
@@ -70,7 +70,7 @@ const Streetart = () => {
                 <h2 className="mb-1 text-xs font-medium tracking-widest text-gray-400 title-font">Dale Grimshaw</h2>
                 <h1 className="mb-3 text-lg font-medium text-gray-900 title-font">Cities of Hope</h1>
 
-                <p className="mb-3 leading-relaxed">London based artist Dale Grimshaws contribution to the Cities of Hope festival in 2016. This colourful mural can be found on Spear Street.</p>
+                <p className="mb-3 leading-relaxed">London based artist Dale Grimshaws contribution to the Cities of Hope festival in 2016. This colourful mural can be found on <strong>Spear Street</strong>.</p>
 
               </div>
             </div>
@@ -92,7 +92,7 @@ const Streetart = () => {
                 <h2 className="mb-1 text-xs font-medium tracking-widest text-gray-400 title-font">Faunagraphic</h2>
                 <h1 className="mb-3 text-lg font-medium text-gray-900 title-font">Converse Blue Tit</h1>
 
-                <p className="mb-3 leading-relaxed">Commissioned by Converse as part of their Wall to Wall project this giant mural of a Blue Tit was created by artist Faunagraphic back in 2011. It has become one of the Northern Quarters most iconic murals. It can be found on Newton Street; head north away from Piccadilly and youll find it on your right hand side just before the junction with Hilton Street.</p>
+                <p className="mb-3 leading-relaxed">Commissioned by Converse as part of their Wall to Wall project this giant mural of a Blue Tit was created by artist Faunagraphic back in 2011. It has become one of the Northern Quarters most iconic murals. It can be found on <strong>Newton Street</strong>; head north away from Piccadilly and youll find it on your right hand side just before the junction with Hilton Street.</p>
 
               </div>
             </div>
@@ -113,7 +113,7 @@ const Streetart = () => {
                 <h2 className="mb-1 text-xs font-medium tracking-widest text-gray-400 title-font">Invader</h2>
                 <h1 className="mb-3 text-lg font-medium text-gray-900 title-font">Space Invader</h1>
 
-                <p className="mb-3 leading-relaxed">Easy to miss, a mosaic made space invader by the street artist Invader. Invader is an anonymous French street artist. He is known for his ceramic tile mosaics modeled on the pixelated art of 1970s to 1980s 8-bit video games. Located somewhere on Faraday Street.</p>
+                <p className="mb-3 leading-relaxed">Easy to miss, a mosaic made space invader by the street artist Invader. Invader is an anonymous French street artist. He is known for his ceramic tile mosaics modeled on the pixelated art of 1970s to 1980s 8-bit video games. Located somewhere on <strong>Faraday Street</strong>.</p>
 
               </div>
             </div>
@@ -135,7 +135,7 @@ const Streetart = () => {
                 <h2 className="mb-1 text-xs font-medium tracking-widest text-gray-400 title-font">Various Artists</h2>
                 <h1 className="mb-3 text-lg font-medium text-gray-900 title-font">Outhouse Current Project</h1>
 
-                <p className="mb-3 leading-relaxed">Out House has been curating street art in prime locations across the Northern Quarter since 2010. The former public toilets at Stevenson Square and the substation on Tib Street provide their main canvases for inviting artists from all over to contribute to the Northern Quarters street art scene. Snap a pic of whatever is currently there.</p>
+                <p className="mb-3 leading-relaxed">Out House has been curating street art in prime locations across the Northern Quarter since 2010. The former public toilets at <strong>Stevenson Square</strong> and the substation on <strong>Tib Street</strong> provide their main canvases for inviting artists from all over to contribute to the Northern Quarters street art scene. Snap a pic of whatever is currently there.</p>
 
               </div>
 
