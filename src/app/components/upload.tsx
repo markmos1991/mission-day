@@ -30,7 +30,7 @@ const Upload = () => {
                         <div className="mb-6">
                             <button
                                 type="submit"
-                                className="h-10 px-5 text-indigo-100 transition-colors duration-150 bg-red-600 rounded-lg focus:shadow-outline hover:bg-indigo-800"
+                                className="h-10 px-5 text-indigo-100 transition-colors duration-150 bg-red-600 rounded-lg focus:shadow-outline hover:bg-red-800"
                             >
                                 Upload
                             </button>

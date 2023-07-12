@@ -18,8 +18,8 @@ const Header = () => {
 
 
 
-        <div className="container flex flex-col flex-wrap items-center p-5 mx-auto md:flex-row">
-          <div className="flex flex-wrap items-center justify-end text-bold lg:w-2/5 md:ml-auto">
+        <div className="container flex flex-col items-center p-5 mx-auto md:flex-row">
+          <div className="flex items-center justify-end text-center no-wrap text-bold lg:w-2/5 ">
 
 
 
