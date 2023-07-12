@@ -6,7 +6,7 @@ const Happy = () => {
             <div className="container px-4 py-24 mx-auto">
                 <div className="flex flex-col w-full mb-20 text-center">
                     <h1 className="mb-2 text-5xl font-medium text-gray-900 sm:text-4xl title-font">Food & Drink</h1>
-                    <p className="mx-auto text-base leading-relaxed text-gray-500 lg:w-2/3">As we embrace the street art of the Northern Quarter we will need to refuel and refresh, please find the recommended watering holes and food vendors below. All deals and offers were correct on publication.</p>
+                    <p className="mx-auto text-base leading-relaxed text-gray-500 lg:w-2/3">As we embrace the street art of the Northern Quarter we will need to refuel and refresh, please find the recommended watering holes and food vendors below.</p>
 
                 </div>
                 <div className="flex flex-wrap -m-4">
