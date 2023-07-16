@@ -1,49 +1,29 @@
-import React from 'react'
+
+"use Client";
+
+import Link from 'next/link';
+import React, { useState, useEffect } from 'react';
 
 const Upload = () => {
     return (
-        <section id="upload" className="relative items-center p-6 text-gray-600 body-font">
-            <div className="items-center text-center">
-            <h1 className="mb-2 text-5xl font-medium text-gray-900 sm:text-4xl title-font">Image upload</h1>
-            <h2 className="mb-4 text-xl font-medium text-gray-900 title-font">A picture of you and your team is required at each piece of art.</h2>
 
-
+        <section id="upload" className="text-gray-600 body-font">
+        <div className="container flex flex-col items-center justify-center px-5 py-24 mx-auto">
+          
+          <div className="w-full text-center lg:w-2/3">
+            <h1 className="mb-2 text-5xl font-medium text-gray-900 sm:text-4xl">Send your groups images</h1>
+            <p className="mb-8 text-lg leading-relaxed">Click below to send an email with your images attached.</p>
+            
+            <div className="flex justify-center">
+            <a href="mailto:mark.amos@aquinas.ac.uk" className="inline-flex px-6 py-2 text-lg text-white bg-red-600 border-0 rounded focus:outline-none hover:bg-gray-500 first-letter:text-primary hover:text-primary-dark">Send Images
+              <Link href="#upload"></Link>
+              </a>
+              
             </div>
-
-            <div className="items-center w-full px-5 mx-auto text-center md:w-96 md:max-w-full">
-                <div className="items-center p-6 text-center border border-red-400 shadow-lg rounded-xl sm:rounded-md">
-                    <form
-                        method="POST"
-                        action="https://public.herotofu.com/v1/6bdf4dc0-1ff1-11ee-b0a7-9f000c4c1540"
-                        enctype="multipart/form-data"
-                    >
-
-                        <label className="items-center block mb-6 text-center">
-                            <span className="text-gray-700"></span>
-                            <input
-                                name="receipt"
-                                type="file"
-                                className="items-center block w-full p-5 mt-1 text-center border-red-600 rounded-md shadow-lg focus:border-red-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
-                            />
-                        </label>
-
-                        <div className="mb-6">
-                            <button
-                                type="submit"
-                                className="h-10 px-5 text-indigo-100 transition-colors duration-150 bg-red-600 rounded-lg focus:shadow-outline hover:bg-red-800"
-                            >
-                                Upload
-                            </button>
-                        </div>
-                        <div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-
-
-        </section>
-    )
-}
+          </div>
+        </div>
+      </section>
+    );
+};
 
 export default Upload
