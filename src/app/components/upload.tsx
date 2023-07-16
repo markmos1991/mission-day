@@ -1,4 +1,5 @@
 
+
 "use Client";
 
 import Link from 'next/link';
@@ -21,7 +22,7 @@ const Upload = () => {
               
             </div>
           </div>
-        </div>
+       </div>
       </section>
     );
 };

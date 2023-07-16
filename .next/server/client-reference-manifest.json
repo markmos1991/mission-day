@@ -179,8 +179,8 @@
       ],
       "async": false
     },
-    "/Users/markamos/Desktop/MagnaWeb.nosync/mission-day/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
-      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+    "/Users/markamos/Desktop/MagnaWeb.nosync/mission-day/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"roboto\"}": {
+      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"roboto\"}",
       "name": "*",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
